@@ -1,0 +1,64 @@
+
+.padre{
+    position: relative;
+    display: inline-block;
+}
+
+
+.centrado{
+    position: absolute;
+   bottom: 0;
+   right: 5%;
+   margin: 5%;
+   padding: 0%;
+ width:50%;
+}
+h1 { color:white;
+    text-align: right;
+    ;
+
+}
+p 
+{color:white;
+text-align:right;
+;}
+
+
+.uno {
+    background-color:transparent ;
+    color:white;
+    border-radius: 10%;
+    border-color:white;
+
+}
+.dos {
+   background-color: #4BBE3F;
+color: white;
+border-color: #4BBE3F;
+
+}
+
+
+
+.fondo
+{
+background-color:#47494D;
+color:white;
+float: left;
+border: 1px solid;
+height: 100%;
+margin: 2px;
+
+}
+
+.bnt
+{
+background-color: #4BBE3F;
+color: white;
+
+border-color: #4BBE3F;
+}
+
+.tickets {
+    color: #4BBE3F;
+}
